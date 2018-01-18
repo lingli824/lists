@@ -1,2 +1,6 @@
 Inception
+<<<<<<< HEAD
 jack movies
+=======
+Jill movies
+>>>>>>> WIP
